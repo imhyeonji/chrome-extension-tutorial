@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Timer Extension",
+  "version": "1.0.0",
+  "description": "Chrome Extension Tutorial",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
